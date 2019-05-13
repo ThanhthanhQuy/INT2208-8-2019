@@ -39,6 +39,7 @@
    - **Mã nguồn sản phẩm**: [Sản phẩm](https://github.com/tranthiensonuet/INT2208-8-2019/tree/master/nhom-69/UETMaket)
    
    * **Giới thiệu sản phẩm**
+      + Link video demo: [Link](https://www.youtube.com/watch?v=BXsERupXCcw&feature=youtu.be)
    
       + Khi vào trang web [https://vnumarket.herokuapp.com](https://vnumarket.herokuapp.com) mọi người có thể nhìn thấy các danh mục sản phẩm có giá cả và hình ảnh minh họa
       <img src="https://i.imgur.com/IlA8wYx.png">
