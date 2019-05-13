@@ -26,9 +26,8 @@
       + Sprint 4: từ tuần 11 - tuần 12: Hoàn thiện tính năng và kiểm thử
       
    3. **High level design** :  Chọn hệ quản trị dữ liệu MongoDB
-   4. **Low level design**:  Sử dụng mô hình MVC của framework Express
-   5. **Mã nguồn sản phẩm**: [Sản phẩm](https://github.com/tranthiensonuet/INT2208-8-2019/tree/master/nhom-69/UETMaket)
-   6. **Kiểm thử** : Đảm bảo mã nguồn không bị lỗi, chạy và sử dụng tốt (Kiểm thử hộp trắng)
+   4. **Mã nguồn sản phẩm**: [Sản phẩm](https://github.com/tranthiensonuet/INT2208-8-2019/tree/master/nhom-69/UETMaket)
+   5. **Kiểm thử** : Đảm bảo mã nguồn không bị lỗi, chạy và sử dụng tốt (Kiểm thử hộp trắng)
    
    * **Giới thiệu sản phẩm**
    
