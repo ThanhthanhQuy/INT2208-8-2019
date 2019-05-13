@@ -7,7 +7,7 @@
 ## BÁO CÁO CÁ NHÂN MÔN CÔNG NGHỆ PHẦN MỀM
 
 - Hoàn thành khóa học EDX: [EDX](https://github.com/truonganhhoang/INT2208-8-2019/blob/master/NguyenTranPhuongThao/SoftEng1x.jpg)
-- Hoàn thành khóa học trên các bài kiểm tra trắc nghiệm trên trang web [https://hoclieu.sachmem.vn](https://hoclieu.sachmem.vn)
+- Hoàn các bài kiểm tra trắc nghiệm trên trang web [https://hoclieu.sachmem.vn](https://hoclieu.sachmem.vn)
 
 - Tham gia làm bài tập nhóm: **Trang web bán hàng online - VNU's Market** [Web](https://vnumarket.herokuapp.com), [Git](https://github.com/tranthiensonuet/INT2208-8-2019/tree/master/nhom-69)
   
@@ -20,7 +20,7 @@
     
     
  - **Quy trình phát triển Scrum được áp dụng vào câu chuyện người dùng:** : 
-    - Tạo trang giao diện hiển thị sản phẩm
+    - Tạo trang giao diện hiển thị thông tin chi tiết sản phẩm
       - [Đặc tả - Làm rõ yêu cầu](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.fvjpas4blmex),
       - [Commit](https://github.com/tranthiensonuet/INT2208-8-2019/blob/master/nhom-69/UETMaket/views/product.hbs)
      
@@ -31,6 +31,8 @@
        - [Kiểm thử - Kiểm thử hộp trắng](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.ryzy80x4sqk1)
      - Demo sản phẩm với những thành viên trong nhóm dùng thử sản phẩm để kiểm tra xem còn lỗi về giao diện, logic hay không
        - [Đặc tả - Thẩm định yêu cầu](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.a3b33sgbrokp)
+      - Kiểm tra lại mã nguồn xem có mã xấu hay không. Nếu có mã xấu thì sửa lại đoạn mã đó
+       - [Xây dựng - Tái cấu trúc](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.bxti8dsihgwm)
       
    
    - **Mã nguồn sản phẩm**: [Sản phẩm](https://github.com/tranthiensonuet/INT2208-8-2019/tree/master/nhom-69/UETMaket)
