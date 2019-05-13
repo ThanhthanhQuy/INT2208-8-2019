@@ -27,6 +27,7 @@
        
      - Chọn hệ quản trị dữ liệu MongoDB,tạo database bằng MongoDB, thiết lập mô hình MVC kết nối tương tác với cơ sở dữ liệu
        - [MVC](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.kehlqoeo6d9r)
+       - [Commit](https://github.com/tranthiensonuet/INT2208-8-2019/blob/master/nhom-69/UETMaket/models/product.js)
      - Xây dựng các ca kiểm thử (test case) dựa trên kỹ thuật kiểm thử biên. Yêu cầu độ bao phủ của bộ kiểm thử phải trên 70%. Nếu dưới 70% thì sửa lại test case để đạt yêu cầu về độ bao phủ
        - [Kiểm thử - Kiểm thử hộp trắng](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.ryzy80x4sqk1)
      - Demo sản phẩm với những thành viên trong nhóm dùng thử sản phẩm để kiểm tra xem còn lỗi về giao diện, logic hay không
