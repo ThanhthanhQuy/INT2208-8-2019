@@ -19,11 +19,11 @@
     
     
   2. **Áp dụng quy trình phát triển Scrum** : 
-     * Kế hoạch cụ thể
-      + Sprint 1: từ tuần 1 - tuần 4: Xây dựng giao diện cơ bản, và tạo hệ quản trị csdl
-      + Sprint 2: từ tuần 4 - tuần 8: Xây dựng tính năng xem thông tin sản phẩm và đặt mua
-      + Sprint 3: từ tuần 8 - tuần 11: Xây dựng tính năng đăng kí tài khoản- thêm giỏ hàng
-      + Sprint 4: từ tuần 11 - tuần 12: Hoàn thiện tính năng và kiểm thử
+     * Kế hoạch cụ thể:
+       + Sprint 1: từ tuần 1 - tuần 4: Xây dựng giao diện cơ bản, và tạo hệ quản trị csdl
+       + Sprint 2: từ tuần 4 - tuần 8: Xây dựng tính năng xem thông tin sản phẩm và đặt mua
+       + Sprint 3: từ tuần 8 - tuần 11: Xây dựng tính năng đăng kí tài khoản- thêm giỏ hàng
+       + Sprint 4: từ tuần 11 - tuần 12: Hoàn thiện tính năng và kiểm thử
       
    3. **High level design** :  Chọn hệ quản trị dữ liệu MongoDB
    4. **Mã nguồn sản phẩm**: [Sản phẩm](https://github.com/tranthiensonuet/INT2208-8-2019/tree/master/nhom-69/UETMaket)
