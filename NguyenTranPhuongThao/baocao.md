@@ -32,7 +32,7 @@
      - Demo sản phẩm với những thành viên trong nhóm dùng thử sản phẩm để kiểm tra xem còn lỗi về giao diện, logic hay không
        - [Đặc tả - Thẩm định yêu cầu](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.a3b33sgbrokp)
       - Kiểm tra lại mã nguồn xem có mã xấu hay không. Nếu có mã xấu thì sửa lại đoạn mã đó
-       - [Xây dựng - Tái cấu trúc](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.bxti8dsihgwm)
+        - [Xây dựng - Tái cấu trúc](https://docs.google.com/document/d/1a4i_31R8WBUAnF91syr1FwBpKoAiTY6rEJt1xWjb74M/edit#heading=h.bxti8dsihgwm)
       
    
    - **Mã nguồn sản phẩm**: [Sản phẩm](https://github.com/tranthiensonuet/INT2208-8-2019/tree/master/nhom-69/UETMaket)
